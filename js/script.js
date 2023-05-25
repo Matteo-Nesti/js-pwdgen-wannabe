@@ -20,10 +20,10 @@ console.log(favouriteColor);
 const nomeX = firstName + lastName + favouriteColor;
 console.log(nomeX);
 
-const risultato = nomeX + sufixNumber;
-console.log(risultato);
+const result = nomeX + sufixNumber;
+console.log(result);
 
-// selezionato elemento dal dom e risultato nell'elemento.
+// selezionato elemento dal dom e result nell'elemento.
 
-document.getElementById('pass-gen').innerText = risultato;
+document.getElementById('pass-gen').innerText = result;
 

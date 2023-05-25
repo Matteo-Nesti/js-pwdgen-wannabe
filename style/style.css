@@ -6,7 +6,10 @@
 
 /* generics */
 
-
+body {
+    font-family: sans-serif;
+    background-color: #252525;
+}
 
 /* utilities */
 
@@ -14,14 +17,15 @@
     width: 1080px;
     padding: 0 1rem;
     margin: 0 auto;
+    color: #fff;
 }
 
 .text-center {
     text-align: center;
 }
 
-.py {
-    padding: 1rem 0;
+.py-2 {
+    padding: 2rem 0;
 }
 
 .fs-1 {
